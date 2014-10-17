@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ktr:home|Door43 (ktr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ktr|d43-ktr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ktr/archive/master.zip|d43-ktr.zip]]
+
+**Recent Changes**
+{{changes>ns = ktr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ktr|Ethnologue data]]
+
